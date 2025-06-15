@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Kamal Mukhiya<br><br>🎓 Recent Computer Science graduate from Sunderland University  <br>🌍 From Sihar District, passionate about technology, development, and growth.  <br>👨‍💻 Aspiring Full-Stack Web Developer | Currently learning **HTML, CSS, JavaScript, React ,Node.js, SQL, MongoDB**  <br>🧠 Focused on improving English and Becoming Webdeveloper<br>💪 Fitness enthusiast | Love football, gym, and healthy living  <br>🎯 Goal: Become a full-stack developer.<br>
+## 👋 Hey there! I'm Kamal Mukhiya<br><br>🎓 Recent Computer Science graduate from Sunderland University  <br>🌍 From Siraha District, passionate about technology, development, and growth.  <br>👨‍💻 Aspiring Full-Stack Web Developer | Currently learning **HTML, CSS, JavaScript, React ,Node.js, SQL, MongoDB**  <br>🧠 Focused on improving English and Becoming Webdeveloper<br>💪 Fitness enthusiast | Love football, gym, and healthy living  <br>🎯 Goal: Become a full-stack developer.<br>
 
 
 ## 🌐 Socials:
